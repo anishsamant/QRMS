@@ -1,0 +1,10 @@
+{
+  "python.pythonPath": "C:\\Users\\ANISH\\Anaconda3\\python.exe",
+  "editor.formatOnSave": true,
+  "python.linting.pep8Enabled": false,
+  "python.linting.pylintPath": "pylint",
+  "python.linting.pylintArgs": ["--load-plugins", "pylint_django"],
+  "python.linting.pylintEnabled": false,
+  "python.linting.pep8Args": ["--ignore=E501", "--ignore=E302"],
+  "python.venvPath": "${workspace}/env/Scripts/python.exe"
+}
