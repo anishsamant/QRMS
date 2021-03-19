@@ -1,5 +1,5 @@
 django==2.1.5
-djangorestframework==3.9.0
+djangorestframework==3.11.2
 django-cors-headers==2.4.0
 django-rest-auth==0.9.3
 django-allauth==0.38.0
