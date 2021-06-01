@@ -11,4 +11,4 @@ oauthlib==2.1.0
 python3-openid==3.1.0
 requests==2.21.0
 requests-oauthlib==1.1.0
-urllib3==1.24.1
+urllib3==1.26.5
